@@ -77,10 +77,24 @@ Screenshots available in:
 Redynox-Cybersecurity-Internship/
 │
 ├── screenshots/
-│ ├── task1-network-security/
-│ └── task2-web-security/
+│   ├── task1-network-security/
+│   │   ├── task1-network-1.png
+│   │   ├── task1-network-2.png
+│   │   ├── task1-network-3.png
+│   │   ├── task1-network-4.png
+│   │   ├── task1-network-5.png
+│   │   └── task1-network-6.png
+│   │
+│   └── task2-web-security/
+│       ├── task2-webgoat-dashboard.png
+│       ├── task2-webgoat-login.png
+│       ├── task2-webgoat-sql-intro.png
+│       ├── task2-websecurity-1.png
+│       ├── task2-websecurity-2.png
+│       ├── task2-websecurity-3.png
+│       ├── task2-websecurity-4.png
+│       └── task2-websecurity-5.png
 │
-├── reports/
 └── README.md
 
 ---
